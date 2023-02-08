@@ -4,7 +4,7 @@ import{
     DiJsBadge,
     DiNodejsSmall,
     DiMysql,
-    DiReact, DiPhotoshop
+    DiReact, DiPhotoshop, DiSass
 } from 'react-icons/di'
 
 import '../styles/components/technologiescontainer.sass'
