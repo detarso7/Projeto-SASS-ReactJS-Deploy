@@ -14,10 +14,10 @@ return(
 
 
         <img src={Avatar} alt="Saulo de Tarso" />
-        <p className="title">Designer/Full Stack</p>
+        <p className="title">Designer / Full Stack</p>
         <SocialMedia/>
         <InformationContainer/>
-        <a href="" className="btn">Baixar Curriculum</a>
+        <a href="http://saulodetarso.ml/pdf/curriculum-saulo-de-tarso.pdf" className="btn">Baixar Curriculum</a>
 
 
     </aside>
