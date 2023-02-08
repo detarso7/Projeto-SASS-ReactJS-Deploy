@@ -11,7 +11,7 @@ const MainContent = () => {
 
           <AboutContainer/> 
           <TechnologiesContainer/>
-          <ProjectsContainer/> 
+          
 
         
         </main>
@@ -21,3 +21,4 @@ const MainContent = () => {
 
     export default MainContent
     
+    //<ProjectsContainer/> 
