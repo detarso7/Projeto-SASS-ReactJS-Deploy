@@ -13,9 +13,9 @@ import{FiFigma} from 'react-icons/fi'
 import '../styles/components/technologiescontainer.sass'
 
 const technologies = [
-    {id: "figma", nome:"Figma", texto: "Proficiência em edição de imagens e criação gráfica.", icon: <FiFigma/>},
-    {id: "photo", nome:"Photoshop", texto: "Experiência em design e colaboração de interface de usuário.", icon: <DiPhotoshop/>},
-    {id: "html", nome:"HTML5", texto: "Experiência em codificação web estrutural e semanticamente correta.", icon: <DiHtml5/>},
+    {id: "figma", nome:"Figma", texto: "Experiência em design interface de usuário.", icon: <FiFigma/>},
+    {id: "photo", nome:"Photoshop", texto: "Proficiência em edição de imagens e criação gráfica.", icon: <DiPhotoshop/>},
+    {id: "html", nome:"HTML5", texto: "Codificação web estrutural e semanticamente correta.", icon: <DiHtml5/>},
     {id: "css", nome:"CSS3", texto: "Habilidade em estilo e formatação de páginas web.", icon: <DiCss3/>},
     {id: "sass", nome:"SASS", texto: "Conhecimento em pré-processador CSS avançado.", icon: <DiSass/>},
     {id: "js", nome:"JavaScript", texto: "Proficiência em linguagem de programação web interativa.", icon: <DiJsBadge/>},
