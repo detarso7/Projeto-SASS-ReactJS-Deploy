@@ -14,7 +14,7 @@ const technologies = [
     {id: "photo", nome:"Photoshop", texto: "Experiência em design e colaboração de interface de usuário.", icon: <DiPhotoshop/>},
     {id: "html", nome:"HTML5", texto: "Experiência em codificação web estrutural e semanticamente correta.", icon: <DiHtml5/>},
     {id: "css", nome:"CSS3", texto: "Habilidade em estilo e formatação de páginas web.", icon: <DiCss3/>},
-    {id: "sass", nome:"SASS", texto: "Conhecimento em pré-processador CSS avançado.."},
+    {id: "sass", nome:"SASS", texto: "Conhecimento em pré-processador CSS avançado.", icon: DiSass},
     {id: "js", nome:"JavaScript", texto: "Proficiência em linguagem de programação web interativa.", icon: <DiJsBadge/>},
     {id: "type", nome:"Typescript", texto: "Habilidade em tipagem estática para JavaScript."},
     {id: "react", nome:"React", texto: "Proficiência em biblioteca JavaScript para aplicativos da web.", icon: <DiReact/>},
