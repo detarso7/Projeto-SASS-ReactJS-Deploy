@@ -4,14 +4,14 @@ import{
     DiJsBadge,
     DiNodejsSmall,
     DiMysql,
-    DiReact
+    DiReact, DiPhotoshop
 } from 'react-icons/di'
 
 import '../styles/components/technologiescontainer.sass'
 
 const technologies = [
     {id: "figma", nome:"Figma", texto: "Proficiência em edição de imagens e criação gráfica."},
-    {id: "photo", nome:"Photoshop", texto: "Experiência em design e colaboração de interface de usuário."},
+    {id: "photo", nome:"Photoshop", texto: "Experiência em design e colaboração de interface de usuário.", icon: <DiPhotoshop/>},
     {id: "html", nome:"HTML5", texto: "Experiência em codificação web estrutural e semanticamente correta.", icon: <DiHtml5/>},
     {id: "css", nome:"CSS3", texto: "Habilidade em estilo e formatação de páginas web.", icon: <DiCss3/>},
     {id: "sass", nome:"SASS", texto: "Conhecimento em pré-processador CSS avançado.."},
@@ -36,7 +36,7 @@ const TechnologiesContainer = () => {
                     {tech.icon}
                     <div className="technologies-info">
                         <h3>{tech.nome}</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        <p>{tech.texto}
                         </p>
                     </div>
                 </div>
