@@ -14,7 +14,7 @@ return(
 
 
         <img src={Avatar} alt="Saulo de Tarso" />
-        <p className="title">Desenvolvedor</p>
+        <p className="title">Designer/Full Stack</p>
         <SocialMedia/>
         <InformationContainer/>
         <a href="" className="btn">Baixar Curriculum</a>
