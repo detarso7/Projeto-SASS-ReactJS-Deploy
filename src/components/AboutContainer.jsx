@@ -12,8 +12,8 @@ const AboutContainer = () => {
             interfaces, criação de design systems e style guides.             
         </p>
 
-        <p>Além disso, como desenvolvedor full stack intermediário, 
-           tenho conhecimento em tecnologias como HTML, CSS3, SASS, 
+        <p>Além disso, como desenvolvedor full stack Jr., 
+           tenho conhecimento em tecnologias como HTML5, CSS3, SASS, 
            React, NodeJS, Express, Typescript, TypeORM e Mysql. Estou sempre
            em busca de melhorar minhas habilidades e tenho o 
            objetivo de crescer como profissional. Espero poder 
