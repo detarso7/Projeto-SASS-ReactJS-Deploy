@@ -14,7 +14,7 @@ const SocialMedia = () => {
     return  (
         <section id="social-media">
         {socialMedia.map((media) => (
-                <a href={media.link} className="social-btn" id={media.name} key={media.name}>
+                <a href={media.link} className="social-btn" id={media.name} key={media.name} target="blank">
                     {media.icon}
                 </a>
             ))}
