@@ -17,7 +17,7 @@ return(
         <p className="title">Designer / Full Stack</p>
         <SocialMedia/>
         <InformationContainer/>
-        <a href="http://saulodetarso.ml/pdf/curriculum-saulo-de-tarso.pdf" target="blank" className="btn">Baixar Curriculum</a>
+        <a href="http://saulodetarso.ml/pdf/curriculum-saulo-de-tarso.pdf" target="blank" className="btn">Baixar Curriculum Completo</a>
 
 
     </aside>
